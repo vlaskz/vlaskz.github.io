@@ -1,9 +1,13 @@
 body{
-    color:#eee;
+   background-color:slategrey;
     
 }
 
 p
 {
     font-family:'Roboto', monospace;
+}
+
+#hello{
+    align-content: center;
 }
